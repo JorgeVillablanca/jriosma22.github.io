@@ -1,0 +1,13 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Navbar*/
+
+.nav-color-fondo{
+    background-color: #243B67;
+}
+
+.logo-nombre{
+    width: 10em;
+  }
