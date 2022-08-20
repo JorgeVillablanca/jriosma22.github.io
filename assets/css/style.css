@@ -3,11 +3,14 @@ body {
     color: #261F44;
 }
 
-/*Navbar y Footer*/
+/* Navbar y Footer*/
 
 .nav-color-fondo {
     background-color: #261F44;
 }
+
+
+/* Navbar */
 
 .logo-nombre {
     width: 10em;
@@ -22,6 +25,10 @@ body {
     border-color: #FF5938;
 }
 
+.dropdown-item{
+    color: #261F44;
+}
+
 
 /* Hero Section */
 
@@ -33,13 +40,23 @@ body {
     height: 15rem;
 }
 
-
 #Hero-Section img {
     margin: auto;
     display: block;
     width: 10em;
     border: 2px solid #261F44;
 }
+
+/* Skills Section*/
+
+.progress{
+    background-color: #FF5938;
+}
+
+.progress-bar{
+    background-color: #261F44;
+}
+
 
 /* Mis Trabajos Section */
 
@@ -56,20 +73,4 @@ body {
     color: #fff;
     background-color: #FF5938;
     border: 1.5px solid #261F44;
-}
-
-/* Colaboraciones Section*/
-
-.progress{
-    background-color: #FF5938;
-}
-
-.progress-bar{
-    background-color: #261F44;
-}
-
-/* Footer Section*/
-
-a:hover{
-    color: #21c400;
 }
